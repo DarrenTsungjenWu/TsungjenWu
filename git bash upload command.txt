@@ -14,6 +14,7 @@ git commit -m "First Commit"
 
 git push origin master
 
+############ It's done ############
 (# When finishing upload files to one repository, one may face problem to upload another files
 # to the same repo. In such case, use:
 git pull --rebase origin master #first
